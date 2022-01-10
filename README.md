@@ -52,7 +52,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall7.jpg"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall17.png"/>
 
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall9.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall9.jpg"/>
 
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall11.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall19.png"/>
 
 </p>
 
@@ -84,14 +84,14 @@
 
 <p align="center">
   
-  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall12.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall20.png"/>
 
 </p>
 
 <br>
 <p align="center">
   
-  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall13.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall23.png"/>
 
 </p>
 
