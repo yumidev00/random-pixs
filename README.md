@@ -4,7 +4,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall1.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall7.jpg"/>
 
 </p>
 
