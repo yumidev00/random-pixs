@@ -91,7 +91,7 @@
 <br>
 <p align="center">
   
-  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall23.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall23.jpg"/>
 
 </p>
 
