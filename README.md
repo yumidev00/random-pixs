@@ -4,6 +4,22 @@
 
 <p align="center">
   
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall0.png"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall1.jpg"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  
   <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall7.jpg"/>
 
 </p>
@@ -12,7 +28,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall2.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall4.png"/>
 
 </p>
 
@@ -20,7 +36,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall3.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall5.png"/>
 
 </p>
 
@@ -28,7 +44,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall4.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall6.png"/>
 
 </p>
 
@@ -36,7 +52,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall5.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall7.png"/>
 
 </p>
 
@@ -44,7 +60,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall6.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall8.png"/>
 
 </p>
 
@@ -52,7 +68,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall7.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall9.png"/>
 
 </p>
 
@@ -60,7 +76,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall8.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall11.png"/>
 
 </p>
 
@@ -68,30 +84,14 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall9.png"/>
-
-</p>
-
-<br>
-
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall11.png"/>
-
-</p>
-
-<br>
-
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall12.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall12.png"/>
 
 </p>
 
 <br>
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/yumidev00/random-pixs/wall/wall13.png"/>
+  <img src="https://github.com/Yumidev00/random-pixs/blob/main/wall/wall13.png"/>
 
 </p>
 
